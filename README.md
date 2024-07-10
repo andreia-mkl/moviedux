@@ -1,8 +1,7 @@
 # React refresher course
 
-# Includes Moviedux app, a movie manager app
-
-# udemy course: https://www.udemy.com/course/master-react/ by Jannick Leismann and Dennis Panjuta
+Includes Moviedux app, a movie manager app
+udemy course: https://www.udemy.com/course/master-react/ by Jannick Leismann and Dennis Panjuta
 
 # Getting Started with Create React App
 
