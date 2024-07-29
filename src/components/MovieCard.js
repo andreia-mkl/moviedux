@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles.css";
 
-export default function Moviecard({ movie }) {
+export default function MovieCard({ movie }) {
   const handleError = (e) => {
     e.target.src = "images/default.jpg";
   };
